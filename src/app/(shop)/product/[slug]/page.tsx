@@ -5,9 +5,9 @@ import { titleFont } from "@/config/fonts";
 import {
 	ProductMobileSlideShow,
 	ProductSlideShow,
+	QuantitySelector,
 	SizeSelector,
 } from "@/components";
-import QuantitySelector from "@/components/product/quantity-selector/QuantitySelector";
 
 interface Props {
 	params: {
