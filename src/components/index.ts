@@ -3,6 +3,8 @@ export * from "./product/size-selector/SizeSelector";
 export * from "./product/slides-show/ProductSlideShow";
 export * from "./product/slides-show/ProductMobileSlideShow";
 
+export * from "./provider/Provider";
+
 export * from "./products/product-grid/ProductGrid";
 export * from "./products/product-grid/ProductGridItem";
 export * from "./product/stock-label/StockLabel";
